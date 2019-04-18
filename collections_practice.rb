@@ -29,3 +29,14 @@ def kesha_maker(string)
   end
   kesha
 end
+
+def find_a(array)
+  array.
+
+
+
+
+
+
+
+end 
