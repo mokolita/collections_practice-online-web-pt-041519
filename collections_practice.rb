@@ -18,6 +18,11 @@ end
 
 def reverse_array(int)
   int.reverse!
+end 
+
+def kesha_maker(string)
+  string.each do |word| 
+    
 
 
 end 
