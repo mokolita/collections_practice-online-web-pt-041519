@@ -16,3 +16,8 @@ def swap_elements(element)
   return element
 end 
 
+def reverse_array(int)
+  int.sort!
+
+
+end 
