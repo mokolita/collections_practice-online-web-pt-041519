@@ -12,7 +12,7 @@ def sort_array_char_count(int)
 end 
 
 def swap_elements(element)
-  element.swap!
+  element.swap!(1, 2)
   end 
 
 end 
