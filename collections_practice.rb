@@ -32,7 +32,7 @@ end
 
 def find_a(array)
   array.select do |word|
-    if wor
+    word.start_with?
 
 
 
