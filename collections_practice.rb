@@ -13,6 +13,5 @@ end
 
 def swap_elements(element)
   element.swap!(1, 2)
-  end 
 
 end 
